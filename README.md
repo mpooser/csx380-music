@@ -16,3 +16,7 @@ Regression, and a Multilayer Perceptron; to use four different attributes, estim
 ### Acknowledgements
 
 Dr. Fred Maier, Associate Director of UGA's AI Institute
+
+### Notice
+
+Code unavailable due to UGA's Academic Honesty policy.
